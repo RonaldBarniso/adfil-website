@@ -1,0 +1,27 @@
+.footer {
+  background-color: rgb(0, 84, 230);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(0, 84, 230);
+}
+
+.sponsors {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 0;
+  font-size: large;
+}
+
+.adfil-dragon {
+  height: 120px;
+  margin-right: 50px;
+}
+
+.jjba-icon {
+  height: 120px;
+  align-items: center;
+}

@@ -1,0 +1,59 @@
+p{
+  font-family: Arial;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.stats {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.author {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.image {
+  width: 500px;
+  height: 280px;
+  margin-bottom: 10px !important;
+  border-radius: 4px;
+  margin: auto;
+}
+
+.description {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100;
+}
+
+.apple-text {
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.shop-link {
+  cursor: pointer;
+}
+
+.shop-link:hover {
+  text-decoration: underline;
+}
